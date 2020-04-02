@@ -1,0 +1,83 @@
+Cmp-Mod V01 Created by PcbNew   date = 10/07/2016 11:17:58
+
+BeginCmp
+TimeStamp = 54212E41
+Path = /542111C2
+Reference = P2;
+ValeurCmp = CONN_19;
+IdModule  = CON19X5;
+EndCmp
+
+BeginCmp
+TimeStamp = 54212E8B
+Path = /54211270
+Reference = P3;
+ValeurCmp = CONN_18;
+IdModule  = CON18X5;
+EndCmp
+
+BeginCmp
+TimeStamp = 54212ED5
+Path = /5421127F
+Reference = P4;
+ValeurCmp = CONN_18;
+IdModule  = CON18X5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5421474E
+Path = 1pin
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 54214759
+Path = 1pin
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 54214764
+Path = 1pin
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 5421476F
+Path = 1pin
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 5421477F
+Path = /5421258F
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 542147A0
+Path = /54212643
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 54212F31
+Path = /542111B3
+Reference = P1;
+ValeurCmp = 963063_15;
+IdModule  = 963063-15;
+EndCmp
+
+EndListe
